@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,HybridScore,Explanation
+CLO_P1,Basic Clothing,Clothing,0.9718044339063938,"Recommended because similar users showed interest in this product, the product is highly similar to products you purchased, you have previously purchased products from the Clothing category."
+BEA_P4,Advanced Beauty Product,Beauty,0.6362584259995601,Recommended because similar users showed interest in this product.
+HOM_P1,Basic Home Product,Home,0.3627325850200925,"Recommended because the product is highly similar to products you purchased, you have previously purchased products from the Home category."
+HOM_P4,Premium Home Product,Home,0.3627325850200925,"Recommended because the product is highly similar to products you purchased, you have previously purchased products from the Home category."
+CLO_P5,Designer Clothing,Clothing,0.3587480447935854,"Recommended because the product is highly similar to products you purchased, you have previously purchased products from the Clothing category."
